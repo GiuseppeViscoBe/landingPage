@@ -6,7 +6,8 @@ import WorkFlowSection from "./components/WorkFlowSection";
 import Pricing from "./components/Pricing";
 import Testimonials from "./components/Testimonials";
 import Footer from "./components/Footer";
-import NavBar from "./components/navbar";
+import NavBar from './components/navbar';
+
 
 const App = () => {
   return (
