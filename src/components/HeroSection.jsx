@@ -32,7 +32,7 @@ const HeroSection = () => {
         <video
           autoPlay
           loop
-          
+          muted
           className="rounded-lg w-1/2 border border-orange-700 shadow-orange-400 mx-2 my-4"
         >
           <source src={video1} type="video/mp4"></source>
@@ -41,7 +41,7 @@ const HeroSection = () => {
         <video
           autoPlay
           loop
-          
+          muted
           className="rounded-lg w-1/2 border border-orange-700 shadow-orange-400 mx-2 my-4"
         >
           <source src={video2} type="video/mp4"></source>
